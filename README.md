@@ -56,5 +56,6 @@ Future Improvements:
 (iii) Provide health tips and suggestions
 (iv) Include age and gender analysis
 <img width="1494" height="2724" alt="code" src="https://github.com/user-attachments/assets/b49eec75-c714-440d-ace2-6eaba5a2b661" />
-<img width="1494" height="2724" alt="code" src="https://github.com/user-attachments/assets/40367e21-f310-41d7-ae0d-136408db930d" />
+<img width="1009" height="370" alt="jcgchjvgjfcv" src="https://github.com/user-attachments/assets/181532a4-60c5-4300-b7a3-bd2966afe197" />
+
 
